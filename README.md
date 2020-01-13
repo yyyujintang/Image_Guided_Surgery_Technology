@@ -58,16 +58,16 @@ function:
 
 ## Course Notes
 
-![](W2.PNG)
+![](W2.png)
 
-![](W3.PNG)
+![](W3.png)
 
-![](W4.PNG)
+![](W4.png)
 
-![](W5.PNG)
+![](W5.png)
 
-![](W6.PNG)
+![](W6.png)
 
-![](W7.PNG)
+![](W7.png)
 
-![](W8.PNG)
+![](W8.png)
