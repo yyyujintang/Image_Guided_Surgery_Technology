@@ -55,3 +55,19 @@ function:
 - grayscale dilation
 - grayscale opening
 - grayscale erosion
+
+## Course Notes
+
+![](W2.PNG)
+
+![](W3.PNG)
+
+![](W4.PNG)
+
+![](W5.PNG)
+
+![](W6.PNG)
+
+![](W7.PNG)
+
+![](W8.PNG)
